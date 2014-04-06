@@ -1,7 +1,7 @@
 {
   "name": "google-maps-coordinates-parser",
   "version": "0.1.0",
-  "description": "Parse Google Maps coordinates from a given URL.",
+  "description": "Coordinates parser for Google Maps urls.",
   "repository": "rafaelrinaldi/google-maps-coordinates-parser",
   "scripts": {
     "test": "mocha"
