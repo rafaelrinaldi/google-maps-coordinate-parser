@@ -1,5 +1,5 @@
 {
-  "name": "google-maps-coordinates-parser",
+  "name": "google-maps-coordinate-parser",
   "version": "0.1.0",
   "description": "Coordinates parser for Google Maps urls.",
   "repository": "rafaelrinaldi/google-maps-coordinates-parser",
